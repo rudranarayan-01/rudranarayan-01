@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudranarayan Sahu</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **App Development**
 
 - 👨‍💻 All of my projects are available at [https://rudranarayan.netlify.app/](https://rudranarayan.netlify.app/)
 
