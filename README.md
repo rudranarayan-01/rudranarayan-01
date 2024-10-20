@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 👨‍💻 All of my projects are available at [https://rudranarayan.netlify.app/](https://akashcd.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://cd-akash.onrender.com/)
 
 - 📝 I regularly write articles on [https://datapirateslearning.netlify.app/](https://datapirateslearning.netlify.app/)
 
