@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ARIFICIAL INTELLIGENCE**
 
-- 👨‍💻 All of my projects are available at https://cd-akash.onrender.com/
+- 👨‍💻 All of my projects are available at https://akash0101.pythonanywhere.com/
 
 - 📝 I regularly write articles on [https://datapirateslearning.netlify.app/](https://datapirateslearning.netlify.app/)
 
