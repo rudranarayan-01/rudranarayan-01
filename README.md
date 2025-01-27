@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN Stack, Machine Learning, React Native**
 
-- 📫 How to reach me **rudranarayansahu080@gmail.com**
+- 📫 How to reach me **rudranarayansahu.tech@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bgODCdZLNpojvy9h2Rja8kRknb4Fsc-V/view?usp=sharing](https://drive.google.com/file/d/1bgODCdZLNpojvy9h2Rja8kRknb4Fsc-V/view?usp=sharing)
 
