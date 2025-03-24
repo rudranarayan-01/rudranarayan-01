@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rudranarayansahu.tech@gmail.com**
 
-- 📄 Know about my experiences [https://akash0101.pythonanywhere.com/](https://drive.google.com/file/d/1nKoPknPEWqZxoWRlfBJNRNzSTtm8fc5W/view?usp=sharing)
+- 📄 Know about my experiences [visit my resume](https://drive.google.com/file/d/1nKoPknPEWqZxoWRlfBJNRNzSTtm8fc5W/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
