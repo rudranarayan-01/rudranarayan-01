@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://rudranarayan.vercel.app] (https://rudranarayan.vercel.app)
+- 👨‍💻 All of my projects are available at [https://rudranarayan.vercel.app](https://rudranarayan.vercel.app)
 
 - 📝 I regularly write articles on [https://datapirateslearning.netlify.app/](https://datapirateslearning.netlify.app/)
  
