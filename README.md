@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudranarayan-01&label=Profile%20views&color=0e75b6&style=flat" alt="rudranarayan-01" /> </p>
 
-- 🔭 I’m currently working on [Intelligent Driver Assistant System(ADAS)](https://github.com/rudranarayan-01)
 
 - 🌱 I’m currently learning **AI Machine Learning**
 
