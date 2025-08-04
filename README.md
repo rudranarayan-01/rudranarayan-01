@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudranarayan-01&label=Profile%20views&color=0e75b6&style=flat" alt="rudranarayan-01" /> </p>
  
-
 - 🌱 I’m currently learning **AI Machine Learning** 
 
 - 👨‍💻 All of my projects are available at [https://rudranarayan.vercel.app](https://rudranarayan.vercel.app)
