@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://datapirateslearning.netlify.app/](https://datapirateslearning.netlify.app/)
  
-- 💬 Ask me about **MERN Stack, Python, ML, React Native, IoT**
+- 💬 Ask me about **MERN Stack, Next.JS, Python, ML, React Native, IoT**
 
 - 📫 How to reach me **rudranarayansahu.tech@gmail.com**
 
