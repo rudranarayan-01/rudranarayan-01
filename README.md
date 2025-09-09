@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rudranarayansahu.tech@gmail.com**
 
-- 📄 Know about my experiences [visit my resume](https://drive.google.com/file/d/1nKoPknPEWqZxoWRlfBJNRNzSTtm8fc5W/view?usp=sharing)
+- 📄 Know about my experiences [visit my resume](https://drive.google.com/file/d/1PF3EVkvZ9HJ0P601C0Vh1kc9bMMhGs4w/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
